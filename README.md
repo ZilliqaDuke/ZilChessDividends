@@ -11,6 +11,9 @@ NodeJS application for creating the monthly dividend report of the decentralized
 * set in the index.js file the number of days (nDays) to look backwards for the minimum hold verification
 * run from the command line ```$>node index.js```
 
+## Note
+The amount of dividends are expressed in Qa (10^-12 ZIL)
+
 ## Output
 dividendReport_YYYY-MM-DD.json
 
