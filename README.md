@@ -4,6 +4,7 @@ NodeJS application for fetching the monthly dividend report of the decentralized
 ## Requirements
 * ViewBlock API key (see https://viewblock.io/) stored in the .env file as APIKEY_VIEWBLOCK=xxxxxxxxxx
 * nodeJS >= 12.16.3
+* libraries included in package.json installed
 
 ## Instructions
 * set in the index.js file the minimum hold of $ZCH and $REDC to be verified (minZCHHold, minREDCHold)
