@@ -7,8 +7,8 @@ NodeJS application for creating the monthly dividend report of the decentralized
 * libraries included in package.json must be installed
 
 ## Instructions
-1. set in the index.js file the minimum hold of $ZCH and $REDC to be verified (minZCHHold, minREDCHold)
-2. set in the index.js file the number of days (nDays) to look backwards for the minimum hold verification
+1. go in the index.js file and set the minimum hold of $ZCH and $REDC to be verified (minZCHHold, minREDCHold)
+2. go in the index.js file and set the number of days (nDays) to look backwards for the minimum hold verification
 3. run from the command line ```$>node index.js```
 
 ## Note
