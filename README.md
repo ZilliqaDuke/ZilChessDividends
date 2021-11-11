@@ -9,7 +9,7 @@ NodeJS application for fetching the monthly dividend report of the decentralized
 ## Instructions
 * set in the index.js file the minimum hold of $ZCH and $REDC to be verified (minZCHHold, minREDCHold)
 * set in the index.js file the number of days (nDays) to look backwards for the minimum hold verification
-* run from the command line ```$> node.js```
+* run from the command line ```$> node index.js```
 
 ## Output
 dividendReport_YYYY-MM-DD.json
