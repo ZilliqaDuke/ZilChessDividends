@@ -12,7 +12,7 @@ NodeJS application for creating the monthly dividend report of the decentralized
 * run from the command line ```$>node index.js```
 
 ## Note
-The amount of dividends are expressed in Qa (1 Qa = 10^-12 ZIL)
+The amount of dividends is expressed in Qa (1 Qa = 10^-12 ZIL)
 
 ## Output
 dividendReport_YYYY-MM-DD.json
