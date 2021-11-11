@@ -1,5 +1,5 @@
 # ZilChessDividends
-NodeJS application for fetching the monthly dividend report of the decentralized platform zilchill.com/chess
+NodeJS application for creating the monthly dividend report of the decentralized platform zilchill.com/chess
 
 ## Requirements
 * ViewBlock API key (see https://viewblock.io/) stored in the .env file as APIKEY_VIEWBLOCK=xxxxxxxxxx
