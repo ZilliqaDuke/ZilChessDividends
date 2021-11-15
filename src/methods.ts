@@ -10,7 +10,7 @@ type Report = {
 
 const options = {
     headers: {
-        'X-APIKEY': 'APIKEY_VIEWBLOCK'
+        'X-APIKEY': process.env.APIKEY_VIEWBLOCK
     }
 }
 
