@@ -6,11 +6,12 @@
   "repository": "https://github.com/ZilliqaDuke/ChessDividends",
   "author": "ZilliqaDuke",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@types/node": "^16.11.6",
     "@zilliqa-js/zilliqa": "^3.3.2",
     "bn.js": "^5.2.0",
+    "dotenv": "^10.0.0",
     "fs": "^0.0.1-security",
     "https": "^1.0.0",
     "node-fetch": "2.0",
