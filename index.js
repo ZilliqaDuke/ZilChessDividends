@@ -1,3 +1,4 @@
+require('dotenv').config();
 const methods = require("./dist/methods");
 const fs = require('fs');
 const { fromBech32Address } = require('@zilliqa-js/crypto');
